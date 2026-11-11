@@ -13,7 +13,9 @@ The research integrates climate reanalysis data, satellite-derived environmental
 The study aims to:
 
 •	To measure key micro-climatic parameters (e.g., temperature, humidity, wind speed, solar radiation) across various land use types such as forested areas, water bodies, open fields, and built-up zones within the university campus.
+
 •	To assess spatial and temporal variations in micro-climate conditions using GIS-based mapping and statistical analysis.
+
 •	To identify the environmental and structural factors (e.g., vegetation cover, surface materials, elevation) influencing micro-climate variability across the campus.
 
 ## Study Area
