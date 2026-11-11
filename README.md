@@ -62,6 +62,7 @@ Future research may incorporate higher-resolution satellite imagery, additional 
 ## Authors
 Supervisor:
 - Md Anarul Haque Mondol
+  
 Co-authors:
 - **Sworna Akter**
 - Humaira Rahman Logna
